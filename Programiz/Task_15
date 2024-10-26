@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+    public class Largestnum {
+     public static void main(String[] args)     {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter 3 number");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+        
+      
+        int result = (a>b && a>c)? a:(b>c)?b:c;
+        System.out.println("Largest of 3 number is: " + result);
+    }
+}
+
+///////////////////************Output*****************/////////////////
+Enter 3 number
+34
+67
+123
+Largest of 3 number is: 123
+
+=== Code Execution Successful ===
