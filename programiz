@@ -32,3 +32,16 @@ class HelloWorld {
         return(a/b);
     }
 }
+
+///    Output:   ///
+
+Enter Num1:
+234
+Enter Num2:
+45
+Addition of two Number: 279
+Substraction of two number: 189
+Multiplication of two Number: 10530
+Division of two Number: 5.0
+
+=== Code Execution Successful ===
