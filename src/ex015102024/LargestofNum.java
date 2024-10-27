@@ -2,7 +2,7 @@ package ex015102024;
 
 import java.util.Scanner;
 
-public class Task_LargestofNum {
+public class LargestofNum {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println(" Enter three number");
