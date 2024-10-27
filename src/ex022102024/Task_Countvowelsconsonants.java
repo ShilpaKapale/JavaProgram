@@ -2,7 +2,7 @@ package ex022102024;
 
 import java.util.Scanner;
 
-public class T_Countvowelsconsonants {
+public class Task_Countvowelsconsonants {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

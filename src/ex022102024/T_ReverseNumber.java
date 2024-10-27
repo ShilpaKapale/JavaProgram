@@ -2,7 +2,7 @@ package ex022102024;
 
 import java.util.Scanner;
 
-public class T_ReverseNumber {
+public class Task_ReverseNumber {
     public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

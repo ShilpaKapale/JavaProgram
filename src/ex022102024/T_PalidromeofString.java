@@ -2,7 +2,7 @@ package ex022102024;
 
 import java.util.Scanner;
 
-public class T_PalidromeofString {
+public class Task_PalidromeofString {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
