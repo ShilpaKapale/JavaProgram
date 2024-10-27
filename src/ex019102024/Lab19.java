@@ -4,7 +4,7 @@ package ex019102024;
 public class Lab19 {
     public static void main(String args[])
     {
-        int i = 2;
+        int i = 3;
         switch (i) {
             case 0:
                 System.out.println("i is zero.");

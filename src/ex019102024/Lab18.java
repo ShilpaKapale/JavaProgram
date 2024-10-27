@@ -9,7 +9,7 @@ public class Lab18 {
             if (i == 2)
                 continue;
 
-            System.out.print(i + " ");
+            System.out.println(i + " ");
         }
     }
 }
