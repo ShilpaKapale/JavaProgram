@@ -1,10 +1,11 @@
 package Nov.ex06112024Constructor;
 
-public class Constructor_Employeee {
+public class Constructor_Employeee_Main {
     public static void main(String[] args) //Runner Class
     {
         //Calling Default Constructor
         Employee e = new Employee();
+
 
         System.out.println(e.name);
         System.out.println(e.eid);
