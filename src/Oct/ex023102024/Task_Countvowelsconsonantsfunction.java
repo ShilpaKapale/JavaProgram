@@ -1,4 +1,4 @@
-package Oct.ex023102024;
+kage Oct.ex023102024;
 
 public class Task_Countvowelsconsonantsfunction {
     public static void main(String[] args) {
