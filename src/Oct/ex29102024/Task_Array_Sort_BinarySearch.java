@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Task_Array_Sort_BinarySearch {
     public static void main(String[] args) {
+      //  General Form of Java Array Initialization
         int b[] = {34,123,55,89,12};
         Arrays.sort(b); //Sort function sorts array and store in same array
 

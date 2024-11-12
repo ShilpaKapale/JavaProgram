@@ -1,16 +1,18 @@
 package Oct.ex29102024;
 
-public class Array3 {
+public class Array3_Stringdatatype {
     public static void main(String[] args) {
-
+        //Creating array Name object
         String Name[] = new String[3];
 
+       //Initializing and Accessing a Specific Element in a Java Array
         Name[0] = "Abc";
         Name[1] = "Xyz";
         Name[2] = "Pqr";
 
-        System.out.println("Data of Name array: "+Name[0]);
+        System.out.println("1st element Data of Name array: "+Name[0]);
 
+        //General Form of Java Array Initialization
         String Product[] = {"TV","Phone","UPS"};
 
         Product[0] = "TV";

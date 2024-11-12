@@ -6,7 +6,7 @@ public class Task_Array_BinarySearch
 {
     public static void main(String[] args)
     {
-
+    //General Form of Java Array Initialization
         int Marks[] = {76,65,89,58,97,55};
         int start = 0;
         int end = Marks.length;
