@@ -1,6 +1,6 @@
-package Nov.ex09112024_Encapsulation;
+package Nov.ex09112024_Encapsulation_gettersetter;
 
-public class Lab_Encapsulation {
+public class Lab_Encapsulation_GS {
     public static void main(String[] args) {
 
     }

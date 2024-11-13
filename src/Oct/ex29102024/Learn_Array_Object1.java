@@ -1,6 +1,6 @@
 package Oct.ex29102024;
 //Example of creating and using an array of objects:
-public class Read_Array_Object1 {
+public class Learn_Array_Object1 {
 
    public static void main(String[] args) {
             // Create an array of Student objects

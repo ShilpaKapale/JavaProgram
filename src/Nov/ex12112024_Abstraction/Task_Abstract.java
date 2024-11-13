@@ -1,6 +1,6 @@
 package Nov.ex12112024_Abstraction;
 
-public class Read_Abstract {
+public class Task_Abstract {
 
 
     class test extends loan

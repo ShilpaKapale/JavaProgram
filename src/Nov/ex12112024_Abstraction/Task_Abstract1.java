@@ -1,6 +1,6 @@
 package Nov.ex12112024_Abstraction;
 
-public class Read_Abstract1 {
+public class Task_Abstract1 {
     public static void main(String[] args) {
         Child c = new Child();
         c.loan50k();

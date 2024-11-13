@@ -1,6 +1,6 @@
 package Nov.ex12112024_Abstraction;
 
-public class Read_Abstract2 {
+public class Task_Abstract2 {
     public static void main(String[] args) {
         wagonR w = new wagonR();
         w.startEngine();

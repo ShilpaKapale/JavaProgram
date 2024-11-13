@@ -1,8 +1,8 @@
-package Nov.ex09112024_Encapsulation;
+package Nov.ex09112024_Encapsulation_gettersetter;
 
 import java.util.Scanner;
 
-public class Lab_Encapsulation1
+public class Lab_Encapsulation_GS1
 {
     public static void main(String[] args) {
 
