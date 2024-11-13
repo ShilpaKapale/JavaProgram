@@ -2,7 +2,7 @@ package Oct.ex29102024;
 
 import java.util.Scanner;
 
-public class Read_Array_1DObject {
+public class Learn_Array_1DObject {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

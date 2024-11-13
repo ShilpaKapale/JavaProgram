@@ -2,7 +2,7 @@ package Oct.ex29102024;
 //Get and print 2D array element
 import java.util.Scanner;
 
-public class Read_Array_2DObject {
+public class Learn_Array_2DObject {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
