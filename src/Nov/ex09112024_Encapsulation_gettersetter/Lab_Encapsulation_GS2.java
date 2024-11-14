@@ -7,6 +7,8 @@ public class Lab_Encapsulation_GS2 {
         s.setRollno(11);
         System.out.println(s.getName());
         System.out.println(s.getRollno());
+        s.setRollno(21);
+        s.setRollno(55);
     }
 
 }
@@ -20,7 +22,14 @@ class Student_RVK
     }
 
     public void setRollno(int rollno) {
-        this.rollno = rollno;
+       if(rollno <= 51) {
+           this.rollno = rollno;
+           System.out.println(this.rollno+" Roll number valid" );
+       }
+       else
+       {
+           System.out.println(rollno +"  Roll number invalid" );
+       }
     }
 
     public String getName() {
