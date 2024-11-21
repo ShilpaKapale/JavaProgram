@@ -19,6 +19,7 @@ class Kavyachild implements Father, Mother
     }
 
     @Override
+    //It sloves ambiquity by implementing method
     public void same() {
         System.out.println("Only one Same method");
     }
