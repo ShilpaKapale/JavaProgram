@@ -1,6 +1,6 @@
-package Oct.ex29102024;
+package Oct.ex29102024_Array;
 // Not working need to check
-import static Oct.ex29102024.BS.bs;
+import static Oct.ex29102024_Array.BS.bs;
 
 public class Task_Array_BinarySearch
 {

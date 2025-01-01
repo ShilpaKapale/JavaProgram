@@ -1,4 +1,4 @@
-package Oct.ex29102024;
+package Oct.ex29102024_Array;
 //Example of creating and using an array of objects:
 public class Learn_Array_Object1 {
 

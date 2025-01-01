@@ -1,4 +1,4 @@
-package Oct.ex29102024;
+package Oct.ex29102024_Array;
 import java.util.Scanner;
 
 public class Array6_Object_Definedsize_Arrayinputfromuser {

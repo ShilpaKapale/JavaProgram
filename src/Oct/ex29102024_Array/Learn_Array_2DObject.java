@@ -1,4 +1,4 @@
-package Oct.ex29102024;
+package Oct.ex29102024_Array;
 //Get and print 2D array element
 import java.util.Scanner;
 

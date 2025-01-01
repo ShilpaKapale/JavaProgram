@@ -1,4 +1,4 @@
-package Oct.ex29102024;
+package Oct.ex29102024_Array;
 
 public class Array2_Intdatatype {
     public static void main(String[] args) {

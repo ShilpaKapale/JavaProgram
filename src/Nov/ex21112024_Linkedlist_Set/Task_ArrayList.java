@@ -1,4 +1,4 @@
-package Nov.ex21112024;
+package Nov.ex21112024_Linkedlist_Set;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ public class Task_ArrayList {
         Student ss1 = new Student("Anisha",1);
         Student ss2 = new Student("Home",2);
         Student ss3 = new Student("Neeta",3);
-//Using generic next line storing Student object
+//Using generic in next line for storing Student object
         List<Student> ms=new ArrayList<>();
 
         ms.add(ss1);
